@@ -12,6 +12,7 @@ A full-featured web application to manage services and user roles (User, Admin) 
 - Firebase Admin SDK
 - JWT & Middleware Auth
 - CORS, Axios
+- Firestore Database
 
 ### 🎨 Frontend
 - React.js
